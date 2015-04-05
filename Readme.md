@@ -12,7 +12,7 @@ I just want to make people more productive. That's it.
 Instalation
 ------------
 
-1. Install Ruby language on your machine
+1. Install Ruby language interpreter on your machine
 2. terminal => ruby main.rb
 
 
