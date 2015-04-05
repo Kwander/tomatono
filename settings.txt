@@ -4,9 +4,9 @@
 "work_text": "Start working, son.",
 "return_text": "Get back to work, fuzzball",
 "break_text": "Rest. Now.",
-"work_notif_header": "Pomodoro alert",
-"break_notif_header": "Pomodoro alert",
-"status_notif_header": "Pomodoro alert",
+"work_notif_header": "Tomatono alert",
+"break_notif_header": "Tomatono alert",
+"status_notif_header": "Tomatono alert",
 "work_status": "You've been working for ",
 "break_status": "You've been resting your ass of for "
 }
